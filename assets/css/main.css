@@ -117,7 +117,7 @@ h6 {
 .header .btn-getstarted:focus {
   color: var(--contrast-color);
   background: #ffffff;
-  font-size: 15px;
+  font-size: 12px;
   font-weight: 600;
   color: #000000;
   padding: 8px 26px;
@@ -177,6 +177,7 @@ h6 {
   .navmenu>ul>li {
     white-space: nowrap;
     padding: 15px 14px;
+    margin-right: 24px;
   }
 
   .navmenu>ul>li:last-child {
